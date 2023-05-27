@@ -39,7 +39,6 @@ public class BinarySearchTree extends Customer{
 	    return node;
 	   }
 
-
 	   public void traverse() { 
 	    if(root == null) {
 	        System.out.println("The binary search tree is empty.");
